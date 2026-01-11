@@ -1,0 +1,11 @@
+# robots.txt for ELTA Solar
+# https://www.eltasolar.dk
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.eltasolar.dk/sitemap.xml
+
+# Crawl-delay (optional - be nice to server)
+Crawl-delay: 10
